@@ -2,5 +2,4 @@
 - 👀 I’m interested in game development, software development, pentesting, and securing networks and systems!
 - 🌱 I’m currently learning C, C#, and Python, web develoment, and security designs through my Computer Science degree focusing in Network and Cybersecurity.
 - 💞️ I’m looking to collaborate on anything game dev related!
-- :star2: Currently looking for full time employment while I wait for my security clearance to go through!
 - 📫 Feel free to email me at mattbsmith03@gmail.com
